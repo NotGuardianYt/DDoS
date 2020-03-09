@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Recode By NotGuardian
 
 from queue import Queue
 from optparse import OptionParser
